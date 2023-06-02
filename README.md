@@ -28,7 +28,7 @@ https://discord.gg/aith
 - กดที่ Open in Colab
 
 
-การทำงานจะมี 4 ส่วน
+# การทำงานจะมี 4 ส่วน
 1. Install A1111 (Setup) กดในช่องสีแดง เพื่อ Run cell เมื่อติดตั้งเรียบร้อย เซลนี้จะดับเอง (อาจจะมีการขอสิทธ์เพื่อเข้าถึง Google drive)
 2. อันนี้อธิบายในข้อ1
 3. สำหรับ Import Model,Lora,embedding ส่วนตัว จาก Google drive 
@@ -41,7 +41,3 @@ Option 1 สำหรับ Download Model, Lora จาก Civitai หรือ 
     การตั้งชื่อต้องมี นามสกุลด้วยเช่น  .safetensors หรือ .ckpt
 Option 2 สำหรับ คัดลอก ผลงานที่เรา Generate ไว้ ใน colab กลับไปเก็บไว้ยัง Google drive
 
-![](/image/002.png)
-![](/image/004.png)
-![](/image/005.png)
-![](/image/006.png)
