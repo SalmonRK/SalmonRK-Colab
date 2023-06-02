@@ -1,3 +1,7 @@
+แจ้งบัค พูดคุย แลกเปลี่ยนความรู้กันได้ในกลุ่ม
+AI Image Discord Channel 
+https://discord.gg/aith 
+
 :: SalmonRK Colab V07.1 :: Updated 2 June 2023
 แก้ปัญหา แจ้งเตือน เมื่อใช้งาน SD webui
 เพิ่ม extension ที่ใช้งานได้
