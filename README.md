@@ -36,8 +36,10 @@ https://discord.gg/aith
 4. Launch the web ui สำหรับ เปิดโปรแกรม Cell นี้จะทำงานตลอด ไม่ปิดเอง รอระบบทำงานจนปรากฏ Link 
   กดที่ Link เพื่อเข้าใช้งาน 
   
-Option 1 สำหรับ Download Model, Lora จาก Civitai หรือ Huggingface
+# Option 1 
+    สำหรับ Download Model, Lora จาก Civitai หรือ Huggingface
     คลิกขวา ที่ ปุ่มดาวน์โหลดโมเดลหรือ lora คัดลอก แล้วมาวาง ในช่อง URL
     การตั้งชื่อต้องมี นามสกุลด้วยเช่น  .safetensors หรือ .ckpt
-Option 2 สำหรับ คัดลอก ผลงานที่เรา Generate ไว้ ใน colab กลับไปเก็บไว้ยัง Google drive
+# Option 2 
+    สำหรับ คัดลอก ผลงานที่เรา Generate ไว้ ใน colab กลับไปเก็บไว้ยัง Google drive
 
