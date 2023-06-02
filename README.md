@@ -23,12 +23,25 @@ https://discord.gg/aith
 - Segment Anything
 
 # การใช้งาน
+![](/image/001.png)
 - เลือกที่ไฟล์ SalmonRK_SD_Webui_Colab.ipynb
 - กดที่ Open in Colab
-![](/image/001.png)
-![](/image/002.png)
+
+
 การทำงานจะมี 4 ส่วน
 1. Install A1111 (Setup) กดในช่องสีแดง เพื่อ Run cell เมื่อติดตั้งเรียบร้อย เซลนี้จะดับเอง (อาจจะมีการขอสิทธ์เพื่อเข้าถึง Google drive)
 2. อันนี้อธิบายในข้อ1
-![](/image/003.png)
-3. 
+3. สำหรับ Import Model,Lora,embedding ส่วนตัว จาก Google drive 
+    (ถ้าโหลดจาก Civitai หรือ hugginface ทำใน option1 จะไวกว่า)
+4. Launch the web ui สำหรับ เปิดโปรแกรม Cell นี้จะทำงานตลอด ไม่ปิดเอง รอระบบทำงานจนปรากฏ Link 
+  กดที่ Link เพื่อเข้าใช้งาน 
+  
+Option 1 สำหรับ Download Model, Lora จาก Civitai หรือ Huggingface
+    คลิกขวา ที่ ปุ่มดาวน์โหลดโมเดลหรือ lora คัดลอก แล้วมาวาง ในช่อง URL
+    การตั้งชื่อต้องมี นามสกุลด้วยเช่น  .safetensors หรือ .ckpt
+Option 2 สำหรับ คัดลอก ผลงานที่เรา Generate ไว้ ใน colab กลับไปเก็บไว้ยัง Google drive
+
+![](/image/002.png)
+![](/image/004.png)
+![](/image/005.png)
+![](/image/006.png)
