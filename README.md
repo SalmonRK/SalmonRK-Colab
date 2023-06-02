@@ -3,18 +3,19 @@
 เพิ่ม extension ที่ใช้งานได้
 
 :: Extension ที่ใช้ได้ 
-controlnet 1.1
-openpose-editor
-posex 
-lycoris
-ABG_extension
-sd-dynamic-thresholding
-canvas-zoom 
-sd-dynamic-prompts
-ultimate-upscale-for-automatic1111
-adetailer
+- controlnet 1.1
+- openpose-editor
+- posex 
+- lycoris
+- ABG_extension
+- sd-dynamic-thresholding
+- canvas-zoom 
+- sd-dynamic-prompts
+- ultimate-upscale-for-automatic1111
+- adetailer
 
 เพิ่ม
-tagcomplete
-aspect-ratio-helper 
-wd14-tagger
+- tagcomplete
+- aspect-ratio-helper 
+- wd14-tagger
+- Segment Anything
