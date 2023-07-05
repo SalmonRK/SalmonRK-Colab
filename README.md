@@ -3,8 +3,8 @@ AI Image Channel
 https://discord.gg/aith 
 
 # :: SalmonRK Colab V07.1 :: Updated 5 July 2023
-A1111 V.1.3.2 แก้ปัญหา Gradio ไม่ทำงาน
-เพิ่ม Controlnet Model : QR CODE
+- A1111 V.1.3.2 แก้ปัญหา Gradio ไม่ทำงาน
+- เพิ่ม Controlnet Model : QR CODE
 - เพิ่มตัวเลือก VAE, Clip stop  
 - เซฟภาพที่เจนเข้า output ใน google drive
 
