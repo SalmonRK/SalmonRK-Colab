@@ -7,6 +7,7 @@ https://discord.gg/aith
 - เพิ่ม Controlnet Model : QR CODE
 - เพิ่มตัวเลือก VAE, Clip stop  
 - เซฟภาพที่เจนเข้า output ใน google drive
+- เพิ่ม VAE 6 ตัว
 
 แก้ปัญหา แจ้งเตือน เมื่อใช้งาน SD webui
 เพิ่ม extension ที่ใช้งานได้
