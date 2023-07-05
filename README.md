@@ -2,7 +2,10 @@
 AI Image Channel
 https://discord.gg/aith 
 
-# :: SalmonRK Colab V07.1 :: Updated 2 June 2023
+# :: SalmonRK Colab V07.1 :: Updated 5 July 2023
+A1111 V.1.3.2 แก้ปัญหา Gradio ไม่ทำงาน
+เพิ่ม Controlnet Model : QR CODE
+
 แก้ปัญหา แจ้งเตือน เมื่อใช้งาน SD webui
 เพิ่ม extension ที่ใช้งานได้
 :: Extension ที่ใช้ได้ 
