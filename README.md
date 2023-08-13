@@ -1,7 +1,12 @@
 แจ้งบัค พูดคุย แลกเปลี่ยนความรู้กันได้ในกลุ่ม
 AI Image Channel
 https://discord.gg/aith 
+# :: SalmonRK Colab V8.1 :: Updated 13 Aug 2023
+- A1111 Version 1.5.1
+- Controlnet lastest version - Support DW Pose ก้างปลาที่แก้ปัญหามือได้ดีกว่าเดิม
+https://github.com/Mikubill/sd-webui-controlnet/discussions/1863
 
+- 
 # :: SalmonRK Colab V07.1 :: Updated 5 July 2023
 - A1111 V.1.3.2 แก้ปัญหา Gradio ไม่ทำงาน
 - เพิ่ม Controlnet Model : QR CODE
