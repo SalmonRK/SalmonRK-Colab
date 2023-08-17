@@ -1,7 +1,22 @@
 แจ้งบัค พูดคุย แลกเปลี่ยนความรู้กันได้ในกลุ่ม
 AI Image Channel
 https://discord.gg/aith 
-
+{
+"metadata": {
+    "accelerator": "GPU",
+    "colab": {
+      "provenance": []
+    },
+    "gpuClass": "standard",
+    "kernelspec": {
+      "display_name": "Python 3",
+      "name": "python3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+{
 "cells": [
 	 {
       "cell_type": "markdown",
@@ -13,7 +28,9 @@ https://discord.gg/aith
         "<a href=\"https://colab.research.google.com/github/SalmonRK/A1111-Colab/blob/main/SalmonRK_SD_Webui_Colab.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
-      
+    "nbformat": 4,
+  "nbformat_minor": 0
+ }     
 # :: SalmonRK Colab V8.1 :: Updated 13 Aug 2023
 - A1111 Version 1.5.1
 - Controlnet lastest version - Support DW Pose ก้างปลาที่แก้ปัญหามือได้ดีกว่าเดิม
