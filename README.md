@@ -2,8 +2,7 @@
 AI Image Channel
 https://discord.gg/aith 
 
-"source": [
-        "<a href=\"https://colab.research.google.com/github/SalmonRK/A1111-Colab/blob/main/SalmonRK_SD_Webui_Colab.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+<a href=\"https://colab.research.google.com/github/SalmonRK/A1111-Colab/blob/main/SalmonRK_SD_Webui_Colab.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
       ]
       
 # :: SalmonRK Colab V8.1 :: Updated 13 Aug 2023
