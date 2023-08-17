@@ -6,8 +6,12 @@ https://discord.gg/aith
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/SalmonRK/A1111-Colab/blob/main/SalmonRK_SD_Webui_Colab.ipynb)    
 
 
-:: Google Drive SalmonRK Colab (ติดตั้งครั้งเดียว พื้นที่ G Drive > 60 GB)
+:: Google Drive SalmonRK Colab (ติดตั้งครั้งเดียว พื้นที่ G Drive > 80 GB)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/SalmonRK/A1111-Colab/blob/main/SalmonRK_SD_Webui_Colab_GDrive%20V8.ipynb) 
+
+# :: Updated 18 Aug 2023
+- เพิ่ม Google Drive Colab ติดตั้ง A1111 ครั้งเดียว ควรมีพื้นที่บน Google Drive อย่างน้อย 80 GB
+
 
 # :: SalmonRK Colab V8.1 :: Updated 13 Aug 2023
 - A1111 Version 1.5.1
