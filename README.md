@@ -1,36 +1,10 @@
 แจ้งบัค พูดคุย แลกเปลี่ยนความรู้กันได้ในกลุ่ม
 AI Image Channel
 https://discord.gg/aith 
-{
-"metadata": {
-    "accelerator": "GPU",
-    "colab": {
-      "provenance": []
-    },
-    "gpuClass": "standard",
-    "kernelspec": {
-      "display_name": "Python 3",
-      "name": "python3"
-    },
-    "language_info": {
-      "name": "python"
-    }
-  },
-{
-"cells": [
-	 {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/SalmonRK/A1111-Colab/blob/main/SalmonRK_SD_Webui_Colab.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    },
-    "nbformat": 4,
-  "nbformat_minor": 0
- }     
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/stable_diffusion_webui_colab.ipynb](https://github.com/SalmonRK/A1111-Colab/blob/main/SalmonRK_SD_Webui_Colab.ipynb))    # Runtime SalmonRK Colab (ใช้พื้นที่ของ Colab ติดตั้งใหม่ทุกครั้งก่อนใช้งาน)
+
 # :: SalmonRK Colab V8.1 :: Updated 13 Aug 2023
 - A1111 Version 1.5.1
 - Controlnet lastest version - Support DW Pose ก้างปลาที่แก้ปัญหามือได้ดีกว่าเดิม
