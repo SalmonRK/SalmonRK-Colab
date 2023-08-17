@@ -2,8 +2,12 @@
 AI Image Channel
 https://discord.gg/aith 
 
+:: Runtime SalmonRK Colab (ใช้พื้นที่ของ Colab ติดตั้งใหม่ทุกครั้งก่อนใช้งาน)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/SalmonRK/A1111-Colab/blob/main/SalmonRK_SD_Webui_Colab.ipynb)    
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/stable_diffusion_webui_colab.ipynb](https://github.com/SalmonRK/A1111-Colab/blob/main/SalmonRK_SD_Webui_Colab.ipynb))    # Runtime SalmonRK Colab (ใช้พื้นที่ของ Colab ติดตั้งใหม่ทุกครั้งก่อนใช้งาน)
+
+:: Google Drive SalmonRK Colab (ติดตั้งครั้งเดียว พื้นที่ G Drive > 60 GB)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/SalmonRK/A1111-Colab/blob/main/SalmonRK_SD_Webui_Colab_GDrive%20V8.ipynb) 
 
 # :: SalmonRK Colab V8.1 :: Updated 13 Aug 2023
 - A1111 Version 1.5.1
