@@ -11,6 +11,15 @@ https://discord.gg/aith
 
 # :: Updated 18 Aug 2023
 - เพิ่ม Google Drive Colab ติดตั้ง A1111 ครั้งเดียว ควรมีพื้นที่บน Google Drive อย่างน้อย 80 GB
+      Colab ใหม่ จะมี การทำงาน 2 ข้อ 1 Option
+กล่องที่ 1. สำหรับติดตั้งโปรแกรม SD A1111 v1.5.1, Controlnet และ Extension ที่จำเป็น บน Google drive (ติดตั้งครั้งเดียว โปรแกรมไม่หาย ควรมีพื้นที่ อย่างน้อย 80GB)
+- เมื่อติดตั้งเสร็จ กล่องนี้จะหยุดทำงานเอง
+กล่องที่2 สำหรับเปิด WebUI เมื่อเสร็จจะมี link สำหรับเข้าใช้งาน SD
+- ข้อนี้ต้องทำทุกครั้งเมื่อจะใช้งาน SD WebUI
+Option 1 สำหรับ Download Model (checkpoint), Lora หรือ Lycoris เข้าระบบ (ทำข้อนี้แล้วต้อง รีสตาร์ท กล่องที่ 2 )
+- หาลิ้ง download ใน civitai โดย คลิ๊กขวาที่ปุ่ม Download -> เลือก Copy Link address แล้วเอามาวางในช่วง model_url หรือ lora_url
+อย่าลืมตั้งชื่อ แล้วใส่นามสกุลให้ถูกต้อง .safetensors หรือ .ckpt
+![](/image/copy link.jpg)
 
 
 # :: SalmonRK Colab V8.1 :: Updated 13 Aug 2023
