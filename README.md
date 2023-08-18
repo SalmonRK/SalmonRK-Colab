@@ -19,7 +19,7 @@ https://discord.gg/aith
 Option 1 สำหรับ Download Model (checkpoint), Lora หรือ Lycoris เข้าระบบ (ทำข้อนี้แล้วต้อง รีสตาร์ท กล่องที่ 2 )
 - หาลิ้ง download ใน civitai โดย คลิ๊กขวาที่ปุ่ม Download -> เลือก Copy Link address แล้วเอามาวางในช่วง model_url หรือ lora_url
 อย่าลืมตั้งชื่อ แล้วใส่นามสกุลให้ถูกต้อง .safetensors หรือ .ckpt
-![](/image/copy link.jpg)
+![](/image/copy_link.jpg)
 
 
 # :: SalmonRK Colab V8.1 :: Updated 13 Aug 2023
