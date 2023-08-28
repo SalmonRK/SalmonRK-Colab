@@ -1,3 +1,5 @@
+![](/image/BUY ME coffee. (200 x 100 px).gif)
+
 แจ้งบัค พูดคุย แลกเปลี่ยนความรู้กันได้ในกลุ่ม
 AI Image Channel
 https://discord.gg/aith 
