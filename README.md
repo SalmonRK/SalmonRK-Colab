@@ -1,4 +1,4 @@
-![](/image/BUY ME coffee. (200 x 100 px).gif)
+<a href="https://www.buymeacoffee.com/salmonrk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 แจ้งบัค พูดคุย แลกเปลี่ยนความรู้กันได้ในกลุ่ม
 AI Image Channel
