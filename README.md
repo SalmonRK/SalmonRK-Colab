@@ -11,16 +11,21 @@ https://discord.gg/aith
 :: Google Drive SalmonRK Colab (ติดตั้งครั้งเดียว พื้นที่ G Drive > 80 GB)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SalmonRK/A1111-Colab/blob/main/SalmonRK_SD_Webui_Colab_GDrive_V9.ipynb) 
 
+# :: Updated 11 SEP 2023
+- Update SalmonRK_SD_Webui_Colab
+  - Base Directory : SD-A1111
+- Fixed Bug on Google drive colab file
+      
 # :: Updated 9 SEP 2023
 Update Support Google drive
 Centralized SD Model Folder
 
 Model_SD15
--- Model
--- Lora
--- CTN
--- model
--- annotator
+      - Model
+      - Lora
+      - CTN
+      - model
+      - annotator
 
 
 # :: Updated 18 Aug 2023
