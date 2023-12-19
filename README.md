@@ -11,6 +11,12 @@ https://discord.gg/aith
 :: Google Drive SalmonRK Colab (ติดตั้งครั้งเดียว พื้นที่ G Drive > 80 GB)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SalmonRK/A1111-Colab/blob/main/SalmonRK_SD_Webui_Colab_GDrive_V9.ipynb) 
 
+# :: Updated 19 DEC 2023 (ฺBoth runtime & G drive version)
+- Update A1111 to V1.7.0
+- For G Drive version  MUST to run
+   - Cell 1. delete all app then initial install
+   - or 1.1 to update existing app to v1.7.0
+     
 # :: Updated 9 OCT 2023 (ฺBoth runtime & G drive version)
 - Add IP Adapter controlnet
 - Add Reactor extension
