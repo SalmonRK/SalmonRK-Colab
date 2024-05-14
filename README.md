@@ -6,7 +6,7 @@ https://discord.gg/aith
 
 ## Krita - ComfyUI
 :: Krita - ComfyUI Runtine ติดตั้งโมเดลบน colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SalmonRK/SalmonRK-Colab/Krita-ComfyUI/SalmonRK_Krita_comfyui_colab_Runtime.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SalmonRK/SalmonRK-Colab/blob/main/Krita-ComfyUI/SalmonRK_Krita_comfyui_colab_Runtime.ipynb)
 
 ## SD-Webui
 :: Runtime SalmonRK Colab (ใช้พื้นที่ของ Colab ติดตั้งใหม่ทุกครั้งก่อนใช้งาน)
