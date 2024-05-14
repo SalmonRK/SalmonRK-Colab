@@ -4,9 +4,13 @@
 AI Image Channel
 https://discord.gg/aith 
 
+## Krita - ComfyUI
+:: Krita - ComfyUI Runtine ติดตั้งโมเดลบน colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SalmonRK/SalmonRK-Colab/Krita-ComfyUI/SalmonRK_Krita_comfyui_colab_Runtime.ipynb)
+
+## SD-Webui
 :: Runtime SalmonRK Colab (ใช้พื้นที่ของ Colab ติดตั้งใหม่ทุกครั้งก่อนใช้งาน)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SalmonRK/A1111-Colab/blob/main/SalmonRK_SD_Webui_Colab.ipynb)
-
 
 :: Google Drive SalmonRK Colab (ติดตั้งครั้งเดียว พื้นที่ G Drive > 80 GB)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SalmonRK/A1111-Colab/blob/main/SalmonRK_SD_Webui_Colab_GDrive_V9.ipynb) 
