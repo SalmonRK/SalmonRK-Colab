@@ -21,6 +21,7 @@ https://discord.gg/aith
 # :: Updated 15 May 2024
 - Rename these repository to SalmonRK-Colab
 - Add new Krita-ComfyUI Runtime colab v1.0
+- Add new Krita-ComfyUI Google Drive colab v1.0
 - A1111 colab still broke but will update soon (plan on these month)
 
 # :: Updated 19 DEC 2023 (ฺBoth runtime & G drive version)
