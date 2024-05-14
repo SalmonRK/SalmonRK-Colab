@@ -11,6 +11,11 @@ https://discord.gg/aith
 :: Google Drive SalmonRK Colab (ติดตั้งครั้งเดียว พื้นที่ G Drive > 80 GB)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SalmonRK/A1111-Colab/blob/main/SalmonRK_SD_Webui_Colab_GDrive_V9.ipynb) 
 
+# :: Updated 15 May 2024
+- Rename these repository to SalmonRK-Colab
+- Add new Krita-ComfyUI Runtime colab v1.0
+- A1111 colab still broke but will update soon (plan on these month)
+
 # :: Updated 19 DEC 2023 (ฺBoth runtime & G drive version)
 - Update A1111 to V1.7.0
 - For G Drive version  MUST to run
