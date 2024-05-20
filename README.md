@@ -13,11 +13,16 @@ https://discord.gg/aith
 
 ## SD-Webui
 :: Runtime SalmonRK Colab (ใช้พื้นที่ของ Colab ติดตั้งใหม่ทุกครั้งก่อนใช้งาน)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SalmonRK/A1111-Colab/blob/main/SalmonRK_SD_Webui_Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SalmonRK/SalmonRK-Colab/blob/main/Runtime_SalmonRK_SD_Webui_Colab_V10.ipynb)
 
 :: Google Drive SalmonRK Colab (ติดตั้งครั้งเดียว พื้นที่ G Drive > 80 GB)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SalmonRK/A1111-Colab/blob/main/SalmonRK_SD_Webui_Colab_GDrive_V9.ipynb) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SalmonRK/SalmonRK-Colab/blob/main/GDrive_SalmonRK_SD_Webui_Colab_V10.ipynb) 
 
+# :: Updated 20 May 2024
+- Revise SD-WebUI both Runtime & Google Drive version
+- A1111 V1.9.3 Support SD1.5 & SDXL
+- New Option for download Controlnet SD1.5 & SDXL
+  
 # :: Updated 15 May 2024
 - Rename these repository to SalmonRK-Colab
 - Add new Krita-ComfyUI Runtime colab v1.0
