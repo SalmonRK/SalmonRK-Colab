@@ -5,6 +5,12 @@ AI Image Channel
 https://discord.gg/aith 
 
 ## Krita - ComfyUI
+การใช้งาน Krita Ai + Google Colab บน Windows
+https://www.youtube.com/watch?v=6M7T0D9X-QM
+
+การใช้งาน Krita Ai + Google Colab บน MAC
+https://www.youtube.com/watch?v=GvbM8IzSDt4
+
 :: Krita - ComfyUI Runtine ติดตั้งโมเดลบน colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SalmonRK/SalmonRK-Colab/blob/main/Krita-ComfyUI/SalmonRK_Krita_comfyui_colab_Runtime.ipynb)
 
