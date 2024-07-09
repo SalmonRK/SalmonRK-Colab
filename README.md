@@ -24,6 +24,9 @@ https://www.youtube.com/watch?v=GvbM8IzSDt4
 :: Google Drive SalmonRK Colab (ติดตั้งครั้งเดียว พื้นที่ G Drive > 80 GB)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SalmonRK/SalmonRK-Colab/blob/main/GDrive_SalmonRK_SD_Webui_Colab_V10.ipynb) 
 
+# :: Updated 9 July 2024
+Krita - ComfyUI Colab support Krita Ai Diffusion plugin V1.20.0
+
 # :: Updated 20 May 2024
 - Revise SD-WebUI both Runtime & Google Drive version
 - A1111 V1.9.3 Support SD1.5 & SDXL
