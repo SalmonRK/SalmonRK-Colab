@@ -27,7 +27,9 @@ https://www.youtube.com/watch?v=GvbM8IzSDt4
 ## FLUX.1
 :: FLUX.1 - ComfyUI Runtine ติดตั้งโมเดลบน colab runtime (not save any file, Please save Image by yourself)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SalmonRK/SalmonRK-Colab/blob/main/FLUX1/SalmonRK_FLUX1_colab_GDrive.ipynb)
-- I'm provide 2 files 1. SalmonRK_FLUX1_colab_GDrive.ipynb 2. Image file for call FLUX.1 Workflow
+- I'm provide 2 files
+  1. SalmonRK_FLUX1_colab_GDrive.ipynb
+  2. Image file for call FLUX.1 Workflow
 
 # :: Updated 3 Aug 2024
 FLUX.1 Colab use on Google Colab Runtime with L4 GPU (or Colab Pro High RAM)
