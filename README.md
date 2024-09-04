@@ -11,11 +11,11 @@ https://www.youtube.com/watch?v=6M7T0D9X-QM
 การใช้งาน Krita Ai + Google Colab บน MAC
 https://www.youtube.com/watch?v=GvbM8IzSDt4
 
-:: Krita - ComfyUI Runtine ติดตั้งโมเดลบน colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SalmonRK/SalmonRK-Colab/blob/main/Krita-ComfyUI/SalmonRK_Krita_comfyui_colab_Runtime.ipynb)
-
-:: Krita - ComfyUI Google Drive ติดตั้งโมเดลบน Google Drive
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SalmonRK/SalmonRK-Colab/blob/main/Krita-ComfyUI/SalmonRK_Krita_comfyui_colab_GDrive.ipynb)
+:: Krita - ComfyUI รุ่นใหม่ เลือก Plugin Version กับ เลือกใช้งาน Google Drive หรือ Runtime ได้
+รองรับ Flux Diffusion model
+รองรับ Krita Plugin V1.22.0
+รองรับ Krita Plugin V1.23.0
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SalmonRK/SalmonRK-Colab/blob/main/Krita-ComfyUI/SalmonRK_Krita_comfyui_colab.ipynb)
 
 ## SD-Webui
 :: Runtime SalmonRK Colab (ใช้พื้นที่ของ Colab ติดตั้งใหม่ทุกครั้งก่อนใช้งาน)
@@ -30,6 +30,9 @@ https://www.youtube.com/watch?v=GvbM8IzSDt4
 - I'm provide 2 files
   1. SalmonRK_FLUX1_colab_GDrive.ipynb
   2. Image file for call FLUX.1 Workflow
+ 
+:: Flux on SD-forge แนะนำติดตั้งโปรแกรมบน Runtime จะใช้งาน ได้ราบลื่น
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SalmonRK/SalmonRK-Colab/blob/main/FLUX1/SalmonRK_SD_forge_Colab.ipynb)
 
 # :: Updated 3 Aug 2024
 FLUX.1 Colab use on Google Colab Runtime with L4 GPU (or Colab Pro High RAM)
