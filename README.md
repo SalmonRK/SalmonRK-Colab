@@ -33,6 +33,9 @@ https://www.youtube.com/watch?v=GvbM8IzSDt4
  
 :: Flux on SD-forge แนะนำติดตั้งโปรแกรมบน Runtime จะใช้งาน ได้ราบลื่น
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SalmonRK/SalmonRK-Colab/blob/main/FLUX1/SalmonRK_SD_forge_Colab.ipynb)
+# :: Updated 4 Sep 2024
+Update Krita - ComfyUI support Flux and lastest version
+Update SD-forge - Useful tools for Flux Diffusion
 
 # :: Updated 3 Aug 2024
 FLUX.1 Colab use on Google Colab Runtime with L4 GPU (or Colab Pro High RAM)
